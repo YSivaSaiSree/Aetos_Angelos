@@ -9,4 +9,4 @@ This highlights that despite technological advancements, societal tragedies like
 
 The 'Resnet18.ipynb' notebook accurately trains the ResNet-18 model for precise gesture identification.
 
-The 'Aetos_angelos.py' file includes the deployment of the ResNet-18 model and the code for successfully alerting the concerned authorities in emergency situations.
+The 'Deployment.py' file includes the deployment of the ResNet-18 model and the code for successfully alerting the concerned authorities in emergency situations.
